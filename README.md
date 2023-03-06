@@ -1,7 +1,7 @@
 # 3D_character_Animation_Unity3D
  My Unity 3D project.
 
-Hare I make Character movement with Idle to walking state, That is made in Unity 3D. Both of these states can be controlled using a variety of tools in Unity, including state machines, animation controllers, and scripting. By using these tools, you can create complex behaviors for characters that respond dynamically to player input and other events in the game world.
+Hare I make Character movements with Idle to walking state, That is made in Unity 3D. Both of these states can be controlled using a variety of tools in Unity, including state machines, animation controllers, and scripting. By using these tools, you can create complex behaviors for characters that respond dynamically to player input and other events in the game world.
 
 
 Unity 3D provides a comprehensive set of tools for game development, including a powerful game engine, an intuitive editor interface, and a scripting language (C# or JavaScript) that allows developers to create custom functionality and behaviors for their games. It also includes a range of built-in features such as physics simulation, lighting and shading effects, and animation tools, making it a versatile tool for creating games of all genres and styles.
