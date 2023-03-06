@@ -19,4 +19,22 @@ To make this game i use here C# programming language & use Visual Studio editor.
 So, C# like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.
 
 
+Idle animation
+
+https://user-images.githubusercontent.com/68610034/223019028-1d07cd78-4fc6-41a2-bb79-7000a29e66c8.mp4
+
+
+
+
+
+
+
+Walking Animation
+
 https://user-images.githubusercontent.com/68610034/223017318-c594b4f6-166c-4406-8849-024accc26e16.mp4
+
+
+
+
+![Charecter animation](https://user-images.githubusercontent.com/68610034/223019422-d959bbe1-7016-48b5-b7cc-d830fb00b546.png)
+![Charecter animation2](https://user-images.githubusercontent.com/68610034/223019427-85d5502a-6749-4571-a133-b0378024c0c3.png)
